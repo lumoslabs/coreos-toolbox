@@ -40,6 +40,7 @@ RUN echo "@testing http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/ap
         speedtest-cli \
         strace \
         sysstat \
+        sudo \
         tar \
         tcpdump \
         tree \
